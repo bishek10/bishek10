@@ -1,16 +1,19 @@
-## Hi there 👋
+Bishek here 👋
 
-<!--
-**bishek10/bishek10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science major at Jacksonville State University, focused on data science and building out a portfolio of ML/DS projects.
 
-Here are some ideas to get you started:
+🎓 Junior at JSU — Computer Science, graduating December 2027
+📊 Into data-science-oriented CS: pandas, NumPy, Matplotlib, scikit-learn
+🛠️ Currently building projects in football/sports analytics, and a couple of side apps
+🌍 Based in Atlanta, GA
+🎯 Prepping for Summer 2027 SWE internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I work with
+Python Java pandas NumPy Matplotlib scikit-learn React TypeScript Supabase
+
+What I'm working on
+Building a data science/ML portfolio for internship applications
+Football analytics platform (Python, pandas, scikit-learn)
+Fiber optic latency simulator (Python/Streamlit)
+
+📫 Feel free to check out my pinned repos below.
