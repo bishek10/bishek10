@@ -6,7 +6,7 @@ Computer Science major at Jacksonville State University, focused on data science
 - 📊 Into data-science-oriented CS: pandas, NumPy, Matplotlib, scikit-learn
 - 🛠️ Currently building projects in football/sports analytics, and a couple of side apps
 - 🌍 Atlanta, GA
-- From Nepal 🇳🇵
+- 🇳🇵 From Nepal 
 - 🎯 Prepping for Summer 2027 SWE internships
 
 ## Tech I work with
